@@ -11,9 +11,6 @@ The project uses an example dataset stored in `data.xlsx`, which contains 5 rand
 - `Chat_Abbr_Master.ipynb`: Main project notebook.
 - `Chat_API.ipynb`: Notebook containing functions to call the ChatGPT API.
 - `instruction.txt`: File containing prompts for the ChatGPT model.
-  '''
-  aa
-  '''
 
 ## Usage
 To use the Chat_Abbr_Master project, you need to configure the ChatGPT API in your system's environment variables.
