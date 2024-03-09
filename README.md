@@ -8,9 +8,12 @@ The project uses an example dataset stored in `data.xlsx`, which contains 5 rand
 ![image](https://github.com/yuanxiaochenAC/Abbr-Chat-Master/assets/46996371/4a8451cb-a23e-43d3-b818-7ad8c9cf7329)
 
 ## Files
+- `Chat_Abbr_Master.ipynb`: Main project notebook.
 - `Chat_API.ipynb`: Notebook containing functions to call the ChatGPT API.
 - `instruction.txt`: File containing prompts for the ChatGPT model.
-- `Chat_Abbr_Master.ipynb`: Main project notebook.
+  '''
+  aa
+  '''
 
 ## Usage
 To use the Chat_Abbr_Master project, you need to configure the ChatGPT API in your system's environment variables.
