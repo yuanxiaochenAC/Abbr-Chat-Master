@@ -1,0 +1,1 @@
+Given a sentence that conveys specific information, your task is to condense its meaning into a concise, linked phrase. The linked phrase should capture the essence of the original sentence while using minimal words. It should be easily understandable and retain the core message of the sentence.
